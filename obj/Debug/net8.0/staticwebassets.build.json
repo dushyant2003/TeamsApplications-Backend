@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/VzXJWtO6TIxUaGJXMsrMApanBhXeVWCsy+Oqz7z+ko=",
+  "Source": "TeamsApplicationServer",
+  "BasePath": "_content/TeamsApplicationServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
